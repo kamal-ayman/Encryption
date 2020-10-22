@@ -20,3 +20,8 @@ pip install compileall -y
 pip install base64 -y
 
 pip install hashlib -y
+
+
+Now run script: 
+
+python3 

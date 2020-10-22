@@ -24,4 +24,4 @@ pip install hashlib -y
 
 Now run script: 
 
-python3 
+python3 EncryptionFiles.pyc
